@@ -1,5 +1,7 @@
 # Automobile Air Refrigeration harnessing Shock Absorber action
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1202377.svg)](https://doi.org/10.5281/zenodo.1202377)
+
 ARUN V T
 ASHWIN VISHNU M
 GOKULDAS NANDAKUMAR
